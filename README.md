@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_CN.md)
+
 # mindlynx-skill — OpenCode Skills Pack
 
 Generic OpenCode skills distilled from the MindLynx-Aistock project.

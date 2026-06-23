@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_CN.md)
+
 # mindlynx-skill — OpenCode 用户级技能包
 
 从 MindLynx-Aistock 实战中提炼的通用化 OpenCode 技能。
