@@ -68,8 +68,8 @@ See [docs/architecture.md](docs/architecture.md) for details.
 | **Claude** | Paste `prompts/*.md` or write to `CLAUDE.md` | ✅ bash |
 | **Cursor** | Copy `prompts/*.md` to `.cursorrules` | ✅ bash |
 | **Windsurf** | Copy to `.windsurfrules` | ✅ bash |
-| **Copilot** | Copy to `.github/copilot-instructions.md` | ❌ |
-| **ChatGPT / others** | Paste prompt content as first message | ❌ |
+| **Copilot** | Add to `.github/copilot-instructions.md` | — |
+| **ChatGPT / others** | Paste prompt content as first message | — |
 
 Full guide: [docs/tool-integration.md](docs/tool-integration.md).
 
@@ -133,8 +133,8 @@ skill(name="c1skill")
 | **Claude** | 粘贴 `prompts/*.md` 或写入 `CLAUDE.md` | ✅ bash |
 | **Cursor** | 复制到 `.cursorrules` | ✅ bash |
 | **Windsurf** | 复制到 `.windsurfrules` | ✅ bash |
-| **Copilot** | 复制到 `.github/copilot-instructions.md` | ❌ |
-| **ChatGPT / 其他** | 粘贴 prompt 内容作为第一条消息 | ❌ |
+| **Copilot** | 添加到 `.github/copilot-instructions.md` | — |
+| **ChatGPT / 其他** | 粘贴 prompt 内容作为第一条消息 | — |
 
 完整指南：[docs/tool-integration.md](docs/tool-integration.md)。
 
