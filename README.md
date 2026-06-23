@@ -83,10 +83,9 @@ MIT
 
 ---
 
-<details>
-<summary><a id="chinese"></a>🌐 中文版本 (Click to expand)</summary>
+<a id="chinese"></a>
 
-<br>
+## 🌐 中文版本
 
 # mindlynx-skill — OpenCode 用户级技能包
 
@@ -163,5 +162,3 @@ fork-merge-audit
 ## 许可证
 
 MIT
-
-</details>
